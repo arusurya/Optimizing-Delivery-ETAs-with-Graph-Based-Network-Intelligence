@@ -114,5 +114,4 @@ The solution enables operations teams to:
 
 
 ## Dashboard Link
-
-https://gnabcmnfhwmwzv3hjnip5y.streamlit.app/
+https://delhiverynetworkintelligence.streamlit.app/
