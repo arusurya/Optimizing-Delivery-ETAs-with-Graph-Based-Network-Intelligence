@@ -115,8 +115,4 @@ The solution enables operations teams to:
 
 ## Dashboard Link
 
-[Insert Streamlit Link]
-
-## Repository Link
-
-[Insert GitHub Link]
+https://gnabcmnfhwmwzv3hjnip5y.streamlit.app/
