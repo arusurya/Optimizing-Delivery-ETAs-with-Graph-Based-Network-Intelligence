@@ -3,13 +3,10 @@ numpy
 matplotlib 
 seaborn 
 scikit-learn 
-jupyter 
-ipykernel
 xgboost
 shap
 streamlit
 plotly
 networkx
 lightgbm
-node2vec
 joblib
