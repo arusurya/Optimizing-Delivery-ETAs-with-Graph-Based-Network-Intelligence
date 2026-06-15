@@ -12,3 +12,4 @@ plotly
 networkx
 lightgbm
 node2vec
+joblib
