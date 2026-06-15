@@ -1,0 +1,5 @@
+model,mae_s,mae_min,rmse_s,rmse_min,r2,within15
+OSRM (no model),206.5597,3.4427,374.5058,6.2418,0.636,4.4241
+"Baseline (GBM, trip features only)",51.6772,0.8613,109.6152,1.8269,0.9688,50.0558
+Node2Vec + GBM,39.8134,0.6636,89.2236,1.4871,0.9793,57.6175
+GraphSAGE + GBM,39.3166,0.6553,87.718,1.462,0.98,59.5872
